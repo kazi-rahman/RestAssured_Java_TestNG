@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/fyesm/IdeaProjects/RestAssured_Java_TestNG/src/test/java/com/shiftvisionapi/test/HeatClinicTest.java">
+        <classes>
+            <class name="com.shiftvisionapi.test.HeatClinicTest">
+                <methods>
+
+                    <include name="test_06"/>
+                    <include name="searchTestProducts_01"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

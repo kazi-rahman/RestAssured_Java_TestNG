@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.shiftvisionapi.test.HeatClinicTest" duration-ms="6977" started-at="2020-12-03T02:43:15 EST" finished-at="2020-12-03T02:43:22 EST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6977" started-at="2020-12-03T02:43:15 EST" finished-at="2020-12-03T02:43:22 EST">
+      <class name="com.shiftvisionapi.test.HeatClinicTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="859" started-at="2020-12-03T02:43:15 EST" finished-at="2020-12-03T02:43:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchTestProducts_01()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="searchTestProducts_01" duration-ms="4285" started-at="2020-12-03T02:43:15 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTestProducts_01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_01()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_01" duration-ms="358" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_02()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_02" duration-ms="312" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02 -->
+        <test-method status="PASS" signature="test_03()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_03" duration-ms="180" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_03 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:20 EST" finished-at="2020-12-03T02:43:20 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test_04()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_04" duration-ms="405" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_04 -->
+        <test-method status="PASS" signature="test_05()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_05" duration-ms="312" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_05 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:21 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test_06()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="test_06" duration-ms="138" started-at="2020-12-03T02:43:21 EST" finished-at="2020-12-03T02:43:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_06 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.shiftvisionapi.test.HeatClinicTest@5649fd9b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-12-03T02:43:22 EST" finished-at="2020-12-03T02:43:22 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.shiftvisionapi.test.HeatClinicTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.shiftvisionapi.test.HeatClinicTest -->
+</testng-results>
